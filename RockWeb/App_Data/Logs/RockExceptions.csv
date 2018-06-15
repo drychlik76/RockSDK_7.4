@@ -1,0 +1,3 @@
+6/13/2018 2:22:25 PM,System.Exception,"Error occurred during application startup"
+6/13/2018 2:22:25 PM,System.TypeInitializationException,"The type initializer for 'System.Data.Entity.Internal.AppConfig' threw an exception."
+6/13/2018 2:22:25 PM,System.Configuration.ConfigurationErrorsException,"Unable to open configSource file 'web.ConnectionStrings.config'. (C:\Users\Daniel Rychlik\Documents\github\7.0\RockWeb\web.config line 24)"
